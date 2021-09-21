@@ -5,3 +5,6 @@
 
 # grab object and move
 ![Alt Text](grab_object_move.gif)
+
+# grab object and copy to other folder
+![Alt Text](grab_object_copy.gif)
