@@ -4,4 +4,4 @@
 ![Alt Text](move_click.gif)
 
 # grab object and move
-![Alt Text](grab object and move.gif)
+![Alt Text](grab_object_move.gif)
