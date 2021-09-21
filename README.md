@@ -8,3 +8,6 @@
 
 # grab object and copy to other folder
 ![Alt Text](grab_object_copy.gif)
+
+# close the current window
+![Alt Text](close_curr_window.gif)
